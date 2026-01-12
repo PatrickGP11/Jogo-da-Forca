@@ -1,4 +1,4 @@
-# 🎯 Jogo da Força
+# 🎯 Jogo da Forca
 
 Um Jogo da Força moderno e interativo, desenvolvido em HTML5, CSS3 e JavaScript puro, com visual animado, sistema de pontuação, temas visuais por categoria e suporte a palavras e frases com espaços.
 
