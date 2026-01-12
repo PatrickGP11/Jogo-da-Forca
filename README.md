@@ -54,9 +54,14 @@ Clique em 🔄 Novo Jogo para jogar novamente
 
 🔄 Botão de reinício
 
-🗂 Estrutura do Projeto
+## 🗂 Estrutura do Projeto
 
-📁 jogo-da-forca │ ├── index.html #Estrutura do jogo ├── style.css # Estilos e animações ├── script.js # Lógica do jogo └── README.md # Documentação
+📁 jogo-da-forca
+│
+├── index.html      # Estrutura do jogo
+├── style.css       # Estilos e animações
+├── script.js       # Lógica do jogo
+└── README.md       # Documentação
 
 ## 🛠 Tecnologias Utilizadas
 
